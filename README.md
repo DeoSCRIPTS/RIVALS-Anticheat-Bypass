@@ -22,4 +22,6 @@ Run your script as you normally would. The loader will automatically download an
 
 ---
 
-- bananalyze, the goat of coding, art of war
+-- bananalyze, the goat of coding, art of war
+-- contact me @ discord
+-- discord.gg/banware make a ticket to contact
