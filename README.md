@@ -1,10 +1,10 @@
 ## Installation
 
-### Step 1 — Open your script
+### Step 1 - Open your script
 
 Open the Lua script that you want to use with **RIVALS**.
 
-### Step 2 — Add the loader
+### Step 2 - Add the loader
 
 Paste the following code at the very top of your script:
 
