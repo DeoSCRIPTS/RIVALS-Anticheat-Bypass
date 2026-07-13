@@ -3,7 +3,7 @@
 >
 > The loader always fetches the latest version directly from GitHub, so you don't need to manually update your script after new releases.
 
-## 🚀 Installation
+## Installation
 
 ### 1. Open your script
 
@@ -29,7 +29,7 @@ The loader will automatically download and execute the latest version before the
 
 ---
 
-## 📞 Support
+## Support
 
 Need help or have a question?
 
