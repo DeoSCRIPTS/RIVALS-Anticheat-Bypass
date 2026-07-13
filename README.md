@@ -13,7 +13,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DeoSCRIPTS/RIVALS-Anticheat-Bypass/refs/heads/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DeoSCRIPTS/RIVALS-Anticheat-Bypass/refs/heads/main/anticheat%20destroyer%206000.luau"))()
 ```
 
 ### Step 3 — Execute
