@@ -28,6 +28,12 @@ Run your script as you normally would.
 The loader will automatically download and execute the latest version before the rest of your script runs.
 
 ---
+## Tips on how to not get detected
+always use colon syntax to get services
+don't use :GetMouse()
+don't use aggressive features
+
+---
 
 ## Support
 
