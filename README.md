@@ -14,6 +14,8 @@ Open the Lua script you want to use with **RIVALS**.
 Paste the following code **at the very top** of your script.
 
 ```lua
+getgenv().license = "" -- put license here
+
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
